@@ -1,5 +1,5 @@
 //@osama.com 
-//package service
+// TELECOM PACKAGE 
 
 #include <iostream>
 using namespace std;
