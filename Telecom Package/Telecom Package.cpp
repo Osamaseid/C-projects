@@ -1,11 +1,9 @@
 //@osama.com 
 // TELECOM PACKAGE 
-
 #include <iostream>
 using namespace std;
 int main()
 {
-
     int a;
     cout<<" WELLCOME TO OUR SERVICE CENTER!!\n PLEASE ENTER YOUR CHOICE\n\n 1, To get daily data package \n 2, To get daily voice package \n 3, To get weakly voice package \n 4, To get weakly data package \n 5, To get monthly package\n";
     cin>>a;
@@ -16,9 +14,9 @@ case 1:
        cout<<" Enter a number to get daily data package\n 1, To get 30 mb \n 2, To get 70 mb\n";
        cin>>l;
      switch (l){
-        case 1:
-         cout<<" successful!you get 30 mb"<<endl;
-        break;
+         case 1:
+          cout<<" successful!you get 30 mb"<<endl;
+         break;
      case 2:
 	     cout<<" successful!you get 70 mb"<<endl;
          break;
